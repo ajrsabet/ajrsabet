@@ -4,7 +4,9 @@ From a young age, I've had a deep curiosity about how things work and how they c
 
 This natural curiosity has evolved into a holistic approach to problem-solving, allowing me to see challenges from multiple angles. With a strong background in construction, I’m now transitioning into the world of computer programming. My goal is to harness these skills to create solutions that contribute to social justice and environmental stewardship.
 
-I’m always open to collaborating with others who share these passions. Feel free to connect with me on LinkedIn by clicking the icon—let’s work together toward meaningful progress.
+My ultimate goal is to start a non-profit and create a web-platform that will provide sustainability scores for products and companies across the globe. I'm currently going to school for programming but my goal is to start the organization by the end of 2025. I will be searching for team members who are passionate about making a difference. 
+
+I’m always open to collaborating with others who share these passions. Feel free to connect with me anytime. (No solicitations)
 
 Check out my portfolio at:
 https://ajrsabet.github.io/Adam_Sabet_Portfolio/
